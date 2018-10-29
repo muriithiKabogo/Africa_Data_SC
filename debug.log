@@ -1,0 +1,5 @@
+[1016/163845.394:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1016/163845.485:ERROR:exception_snapshot_win.cc(88)] thread ID 12828 not found in process
+[1016/163845.764:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1016/163845.764:ERROR:exception_snapshot_win.cc(88)] thread ID 13368 not found in process
+[1022/150351.668:ERROR:autoupdatechecker.cc(143)] Unable to prepare update checker runtime.
