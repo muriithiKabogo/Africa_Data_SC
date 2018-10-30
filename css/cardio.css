@@ -1101,6 +1101,14 @@ footer .social-footer li:hover a {
 	}
 }
 
+.alert{
+	text-align: centre;
+	padding: none;
+	background:#79c879;
+	color: #fff;
+	display: none;
+}
+
 @media(max-width: 400px) {
 	header .typed-cursor {
 		display: none;
