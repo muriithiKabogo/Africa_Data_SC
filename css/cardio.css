@@ -35,8 +35,7 @@ body {
 	position: absolute;
 	top: calc(50% - 32px);
 	left: calc(50% - 32px);
-}
-
+} 
 .preloader div {
 	display: none;
 	/* Preload the Second Pricing Image */
