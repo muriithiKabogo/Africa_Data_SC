@@ -27,6 +27,11 @@ function submitform(e){
     var message= getinputval('message')
     console.log(name)
 
+
+
+    heap.identify('name');
+    heap.identify('email');
+   
     //save message
     savemessage(name,phone,email,message)
 
