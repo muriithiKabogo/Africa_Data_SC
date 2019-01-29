@@ -29,8 +29,8 @@ function submitform(e){
 
 
 
-    heap.identify('name');
-    heap.identify('email');
+    heap.identify(name);
+    heap.identify(email);
    
     //save message
     savemessage(name,phone,email,message)
