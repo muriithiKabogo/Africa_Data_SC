@@ -28,9 +28,12 @@ function submitform(e){
     var message= getinputval('message')
     console.log(name)
 
+<<<<<<< HEAD
 
 
    
+=======
+>>>>>>> parent of f686f92... identity
     //save message
     savemessage(name,phone,email,message)
 
