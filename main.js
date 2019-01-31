@@ -29,9 +29,12 @@ function submitform(e){
     console.log(name)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
    
+=======
+>>>>>>> parent of f686f92... identity
 =======
 >>>>>>> parent of f686f92... identity
     //save message
