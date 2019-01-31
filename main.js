@@ -1,4 +1,3 @@
-
 // Initialize Firebase
 var config = {
   apiKey: "AIzaSyBotX9DPaOfZQM8Y5xIibfy0o8OABjiGtg",
@@ -28,15 +27,6 @@ function submitform(e){
     var message= getinputval('message')
     console.log(name)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-
-   
-=======
->>>>>>> parent of f686f92... identity
-=======
->>>>>>> parent of f686f92... identity
     //save message
     savemessage(name,phone,email,message)
 
