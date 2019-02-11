@@ -55,7 +55,7 @@ function savemessage(name,phone,email,message){
        name: name,
        phone:phone,
        email,email,
-w       message:message
+       message:message
 
 
     });
@@ -73,4 +73,3 @@ messageref.on("child_added",snap=>{
 $('#table_bones').append("<tr><td>"+name+"</td><td>"+email+"</td><td>"+phone+"</td><td>"+message+"</td></tr>");
 
 });
-
