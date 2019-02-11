@@ -55,7 +55,7 @@ function savemessage(name,phone,email,message){
        name: name,
        phone:phone,
        email,email,
-       message:message
+w       message:message
 
 
     });
